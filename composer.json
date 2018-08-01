@@ -17,7 +17,8 @@
         "phpunit/phpunit": "~6.0",
         "symfony/thanks": "^1.0",
         "laravelcollective/html": "5.5.*",
-        "thomaswelton/laravel-gravatar": "~1.0"
+        "thomaswelton/laravel-gravatar": "~1.0",
+        "rakuten-ws/rws-php-sdk": "1.*"
     },
     "autoload": {
         "classmap": [
