@@ -4,6 +4,8 @@ namespace App\Http\Controllers;
 
 use \App\Item;
 
+use App\Http\Controllers\Controller;
+
 class ItemsController extends Controller
 {
 
